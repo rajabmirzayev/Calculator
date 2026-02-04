@@ -5,9 +5,9 @@ It features a clean pastel design, LCD display effect (Digital-7 font), and full
 
 ---
 
-## 📸 Preview
+## Preview
 
-**Screenshot:**
+**View:**
 > *![](image/Preview.png)*
 
 **Live Demo:**
@@ -15,7 +15,7 @@ It features a clean pastel design, LCD display effect (Digital-7 font), and full
 
 ---
 
-## ⭐ Features
+## Features
 
 - Retro LCD display with 7-segment-style font
 - All basic operations: +, -, ×, ÷
@@ -28,7 +28,7 @@ It features a clean pastel design, LCD display effect (Digital-7 font), and full
 
 ---
 
-## ⌨ Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Key | Action |
 |-----|--------|
@@ -42,7 +42,7 @@ It features a clean pastel design, LCD display effect (Digital-7 font), and full
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
